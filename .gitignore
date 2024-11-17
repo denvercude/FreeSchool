@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore node_modules for frontend (future setup)
+frontend/node_modules/
+
+# Ignore SQLite database (optional, if added later)
+*.sqlite3
